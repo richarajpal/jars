@@ -1,1 +1,0 @@
-See https://jersey.java.net/license.html
